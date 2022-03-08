@@ -1,5 +1,9 @@
 # Insights-Project-House-Rocket
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/77242865/157144795-ede34fea-6458-4662-a784-540ea7d7f23d.jpg" width="600px">
+</div>
+
 ## 1. Questão de negócio
 
 1. Quais são os imóveis que a House Rocket deveria comprar e por qual preço?
