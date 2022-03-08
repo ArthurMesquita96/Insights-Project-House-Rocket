@@ -71,7 +71,7 @@
     *→ **Falso**, imóveis com vista para a água são em média **212% mais caros***
     
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5430a92e-a970-472b-9126-c794ba293f8e/Untitled.png)
+![Untitled](https://www.notion.so/Projeto-Insights-House-Rocket-a189d4ca9c90451eaaa283de0ae009e2#a89400e5883746e39ee63345e466221d)
 
 - H2: Imóveis com data de construção menor que 1955 são 50% mais baratos na média
     
