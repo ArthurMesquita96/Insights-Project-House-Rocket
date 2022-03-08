@@ -1,7 +1,7 @@
 # Insights-Project-House-Rocket
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/77242865/157144795-ede34fea-6458-4662-a784-540ea7d7f23d.jpg" width="600px">
+<img src="https://user-images.githubusercontent.com/77242865/157145650-5abb1cb8-b76f-45d5-8c75-6693b6ca448b.jpg" width="1000px">
 </div>
 
 ## 1. Questão de negócio
