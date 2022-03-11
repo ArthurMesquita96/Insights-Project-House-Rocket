@@ -1,7 +1,7 @@
 # Insights-Project-House-Rocket
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/77242865/157145650-5abb1cb8-b76f-45d5-8c75-6693b6ca448b.jpg" width="1000px">
+<img src="imagens/King-County.jpg" width="1000px">
 </div>
 
 # 1. Questões de negócio
