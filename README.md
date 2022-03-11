@@ -4,12 +4,12 @@
 <img src="https://user-images.githubusercontent.com/77242865/157145650-5abb1cb8-b76f-45d5-8c75-6693b6ca448b.jpg" width="1000px">
 </div>
 
-## 1. Questões de negócio
+# 1. Questões de negócio
 
 1. Quais são os imóveis que a House Rocket deveria comprar e por qual preço?
 2. Uma vez o imóvel comprado, qual o melhor momento para vendê-lo e por qual preço?
 
-## 2. Premissas do Projeto
+# 2. Premissas do Projeto
 
 - Valores de "ID" duplicados foram excluídos.
 - A coluna "price" representa o valor de compra do imóvel.
@@ -19,21 +19,21 @@
     - Se o preço de compra for menor que o preço médio da região na determinada estação, o preço de venda será 30% maior que o preço de compra
     - Se for maior, o acrescimo será de 10%
 
-## 3. Planejamento da Solução
+# 3. Planejamento da Solução
 
-3.1 Produto Final
+##3.1 Produto Final
 
 - Relatório com as sugestões de compra do imóvel por um valor recomendado
 - Relatório com as sugestões de venda de um imóvel por um valor recomendado
 
-3.2 Ferramentas
+##3.2 Ferramentas
 
 - Python 3.8.1
 - Jupyter Notebook
 
-3.3 Processo
+##3.3 Processo
 
-3.3.1 Estratégia de solução
+#3.3.1 Estratégia de solução
 
 1. Entendimento do modelo de negócio da empresa
 2. Entendimento do problema de negócio
@@ -43,7 +43,7 @@
 6. Levantamento de hipóteses
 7. Validação das hipóteses e Insights gerados
 
-3.3.2 Etapas de solução
+#3.3.2 Etapas de solução
 
 → Recomendação de compra de imóveis
 
@@ -61,12 +61,7 @@
 - Adicionar feature ‘profit’
 - Salvar em .csv
 
-## 4. Exploração de dados
-
-### Solução das questões de negócio
-
-- Relatório com as sugestões de compra do imóvel por um valor recomendado
-- Relatório com as sugestões de venda de um imóvel por um valor recomendado
+# 4. Exploração de dados
 
 ### 4.1 Teste de Hióteses
 
@@ -137,7 +132,7 @@
 <img src="imagens/H8.png" width="700px">
 </div>    
 
-## 6. Resultados Finaneiros para o Negócio
+# 5. Resultados Finaneiros para o Negócio
 
 Após a análise, dentre os 21.435 imóveis disponíveis para a compra na região de King Country, 3808 foram sugeridos para compra e detalhados em relatório.
 
@@ -147,7 +142,7 @@ Caso os imóveis sugeridos sejam comprados, o investimento inicial esperado é d
 <img src="imagens/resultado_de_negocios.png" width="700px">
 </div>
 
-## 7. Próximos passos
+# 6. Próximos passos
 
 - Aplicar métodos mais robustos para o tratamento de outliers
 - Aplicar modelo de machine learning capaz de avaliar boas oportunidades de compra considerando os atributos do imóvel
