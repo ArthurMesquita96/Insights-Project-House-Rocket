@@ -105,7 +105,7 @@
     *→ **Falso**, o crescimento médio MoM dos imóveis com 3 banheiros no período analisado é de **0,29%***
     
 <div align="center">
-<img src="imagens/H5.png" width="700px">
+<img src="imagens/H5.png" width="900px">
 </div>
 
 - H6: No inverno as casas são em média 30% mais baratas que nas outras estações
