@@ -21,19 +21,19 @@
 
 # 3. Planejamento da Solução
 
-##3.1 Produto Final
+## 3.1 Produto Final
 
 - Relatório com as sugestões de compra do imóvel por um valor recomendado
 - Relatório com as sugestões de venda de um imóvel por um valor recomendado
 
-##3.2 Ferramentas
+## 3.2 Ferramentas
 
 - Python 3.8.1
 - Jupyter Notebook
 
-##3.3 Processo
+## 3.3 Processo
 
-#3.3.1 Estratégia de solução
+# 3.3.1 Estratégia de solução
 
 1. Entendimento do modelo de negócio da empresa
 2. Entendimento do problema de negócio
@@ -43,7 +43,7 @@
 6. Levantamento de hipóteses
 7. Validação das hipóteses e Insights gerados
 
-#3.3.2 Etapas de solução
+# 3.3.2 Etapas de solução
 
 → Recomendação de compra de imóveis
 
