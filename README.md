@@ -33,7 +33,7 @@
 
 ## 3.3 Processo
 
-# 3.3.1 Estratégia de solução
+### 3.3.1 Estratégia de solução
 
 1. Entendimento do modelo de negócio da empresa
 2. Entendimento do problema de negócio
@@ -43,7 +43,7 @@
 6. Levantamento de hipóteses
 7. Validação das hipóteses e Insights gerados
 
-# 3.3.2 Etapas de solução
+### 3.3.2 Etapas de solução
 
 → Recomendação de compra de imóveis
 
@@ -63,7 +63,7 @@
 
 # 4. Exploração de dados
 
-### 4.1 Teste de Hióteses
+## 4.1 Teste de Hióteses
 
 - H1: Imóvel que possuem vista para água são 30% mais caros na média
     
