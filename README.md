@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/77242865/157145650-5abb1cb8-b76f-45d5-8c75-6693b6ca448b.jpg" width="1000px">
 </div>
 
-## 1. Questão de negócio
+## 1. Questões de negócio
 
 1. Quais são os imóveis que a House Rocket deveria comprar e por qual preço?
 2. Uma vez o imóvel comprado, qual o melhor momento para vendê-lo e por qual preço?
@@ -74,8 +74,10 @@
     
     *→ **Falso**, imóveis com vista para a água são em média **212% mais caros***
     
+<div align="center">
+<img src="https://user-images.githubusercontent.com/77242865/157777713-0a2ee6bd-f77e-480c-8ad9-d5c4540189d9.png" width="1000px">
+</div>
 
-![Untitled](https://www.notion.so/Projeto-Insights-House-Rocket-a189d4ca9c90451eaaa283de0ae009e2#a89400e5883746e39ee63345e466221d)
 
 - H2: Imóveis com data de construção menor que 1955 são 50% mais baratos na média
     
