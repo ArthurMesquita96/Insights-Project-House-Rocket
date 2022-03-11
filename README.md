@@ -144,7 +144,7 @@ Após a análise, dentre os 21.435 imóveis disponíveis para a compra na regiã
 Caso os imóveis sugeridos sejam comprados, o investimento inicial esperado é de $11,5 bilhões. Após a revenda de todos os imóveis, o lucro total previsto é de 1,97 bilhões, totalizando 17% de retorno sobre o capital incialmente investido
 
 <div align="center">
-<img src="imagens/reusltados_de_negocio.png" width="700px">
+<img src="imagens/resultado_de_negocios.png" width="700px">
 </div>
 
 ## 7. Próximos passos
