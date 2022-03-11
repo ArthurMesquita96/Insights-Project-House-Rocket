@@ -75,7 +75,7 @@
     *→ **Falso**, imóveis com vista para a água são em média **212% mais caros***
     
 <div align="center">
-<img src="https://user-images.githubusercontent.com/77242865/157777713-0a2ee6bd-f77e-480c-8ad9-d5c4540189d9.png" width="1000px">
+<img src="imagens/H1.png" width="700px">
 </div>
 
 
@@ -84,51 +84,68 @@
     *→ **Falso**, casas não reformadas são **43% mais baratas** em média que casas reformadas*
     
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df8085b9-d1ae-4991-ac25-67fac6a29dbc/Untitled.png)
+<div align="center">
+<img src="imagens/H2.png" width="700px">
+</div>
 
 - H3: Imóveis sem porão possuem área total (sqrt_lot) são 40% maiores do que os imóveis com porão
     
     → ***Falso**, imóveis sem porão possuem área total **19% maior** que imóveis com porão*
     
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce9f8877-9b33-4bf5-ba54-fabf30aa5892/Untitled.png)
+<div align="center">
+<img src="imagens/H3.png" width="700px">
+</div>
 
 - H4: O crescimento do preço dos imóveis YoY (Year over Year) é de 10%
     
     *→ **Falso**, o crescimento de preços YoY é de **0,7%***
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7197cace-aaa2-4119-bc03-6ccc3ffc2dea/Untitled.png)
-    
+<div align="center">
+<img src="imagens/H4.png" width="700px">
+</div>
+
 - H5: Imóveis com 3 banheiros tem um crescimento de MoM (Month over Month) de 15%
     
     *→ **Falso**, o crescimento médio MoM dos imóveis com 3 banheiros no período analisado é de **0,29%***
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71313ea1-fb54-4940-b1bb-3a52a386b380/Untitled.png)
-    
+<div align="center">
+<img src="imagens/H5.png" width="700px">
+</div>
+
 - H6: No inverno as casas são em média 30% mais baratas que nas outras estações
     
     *→ **Falso**, no inverno, as casas são em média **4% mais baratas** que nas outras estações*
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f6e49a3-26ba-4cbd-be13-af9e75f2bebd/Untitled.png)
-    
+<div align="center">
+<img src="imagens/H6.png" width="700px">
+</div>
+
 - H7: Casas com um alto grau de qualidade e design são até 50% mais caras
     
     *→ **False**, casas com um alto grau de qualidade e design são em média **227% mais caras***
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b2d5195-cd41-4ac6-bc90-350dfdd5b511/Untitled.png)
-    
+<div align="center">
+<img src="imagens/H7.png" width="700px">
+</div>
+
 - H8: Imóveis não reformados são 10% mais baratos do que a média dos imóveis reformados por região.
     
     *→ **Falso**, imóveis não reformados são em média **43,52% mais baratos** que imóveis reformados*
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ccd5192-453b-4d5a-8008-e5cbefd1f71f/Untitled.png)
-    
+<div align="center">
+<img src="imagens/H8.png" width="700px">
+</div>    
 
 ## 6. Resultados Finaneiros para o Negócio
 
 Após a análise, dentre os 21.435 imóveis disponíveis para a compra na região de King Country, 3808 foram sugeridos para compra e detalhados em relatório.
 
 Caso os imóveis sugeridos sejam comprados, o investimento inicial esperado é de $11,5 bilhões. Após a revenda de todos os imóveis, o lucro total previsto é de 1,97 bilhões, totalizando 17% de retorno sobre o capital incialmente investido
+
+<div align="center">
+<img src="imagens/reusltados_de_negocio.png" width="700px">
+</div>
 
 ## 7. Próximos passos
 
