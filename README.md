@@ -141,7 +141,7 @@
 
 Após a análise, dentre os 21.435 imóveis disponíveis para a compra na região de King Country, 3808 foram sugeridos para compra e detalhados em relatório.
 
-Caso os imóveis sugeridos sejam comprados, o investimento inicial esperado é de $11,5 bilhões. Após a revenda de todos os imóveis, o lucro total previsto é de 1,97 bilhões, totalizando 17% de retorno sobre o capital incialmente investido
+Caso os imóveis sugeridos sejam comprados, o investimento inicial esperado é de $11,5 bilhões. Após a revenda de todos os imóveis, será arrecadado um total de $13,5 bilhões de dólares e o lucro total previsto é de 1,97 bilhões, totalizando 17% de retorno sobre o capital incialmente investido
 
 <div align="center">
 <img src="imagens/resultado_de_negocios.png" width="700px">
