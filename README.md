@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/77242865/157145650-5abb1cb8-b76f-45d5-8c75-6693b6ca448b.jpg" width="1000px">
 </div>
 
-## 1. Questão de negócio
+## 1. Questões de negócio
 
 1. Quais são os imóveis que a House Rocket deveria comprar e por qual preço?
 2. Uma vez o imóvel comprado, qual o melhor momento para vendê-lo e por qual preço?
