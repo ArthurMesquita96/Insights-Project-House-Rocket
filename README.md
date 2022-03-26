@@ -25,6 +25,7 @@
 
 - Relatório com as sugestões de compra do imóvel por um valor recomendado
 - Relatório com as sugestões de venda de um imóvel por um valor recomendado
+- Aplicativo contendo detalhes das casas e recomendações: https://report-house-rocket.herokuapp.com/
 
 ## 3.2 Ferramentas
 
