@@ -14,7 +14,7 @@
 - Valores de "ID" duplicados foram excluídos.
 - A coluna "price" representa o valor de compra do imóvel.
 - O preço das casas é influenciado pela região (zipcode) e estação do ano (seasons)
-- Imóveis considerados boas oportunidades de compra são aqueles que estão abaixo do preço médio da região e estão em bom estado
+- Imóveis considerados boas oportunidades de compra são os imóveis que estão em bom estado e abaixo do preço médio da região
 - Para a decisão do preço de venda são consideradas três features, o preço de compra, a região e a estação do ano
     - Se o preço de compra for menor que o preço médio da região na determinada estação, o preço de venda será 30% maior que o preço de compra
     - Se for maior, o acrescimo será de 10%
