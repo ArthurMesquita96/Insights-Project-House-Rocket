@@ -27,6 +27,10 @@
 - Relatório com as sugestões de venda de um imóvel por um valor recomendado
 - Aplicativo contendo detalhes das casas e recomendações: https://report-house-rocket.herokuapp.com/
 
+<div align="center">
+<img src="imagens/app_streamlit.png" width="800px">
+</div>
+
 ## 3.2 Ferramentas
 
 - Python 3.8.1
