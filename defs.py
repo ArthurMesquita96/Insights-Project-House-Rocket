@@ -26,7 +26,7 @@ def set_feature(data):
     data['price_m2'] = data['price'] / data['sqft_lot']
 
     # Convertendo para datimetime
-    # data['date'] = pd.to_datetime(data['date'], format="%Y-%m-%d")
+    data['date'] = pd.to_datetime(data['date'], format="%Y-%m-%d")
 
     # Convertendo pés quadrados para metros quadrados (m²)
     data['sqft_living'] = data['sqft_living'] * 0.092903
