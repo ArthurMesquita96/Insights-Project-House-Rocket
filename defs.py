@@ -27,7 +27,7 @@ def set_feature(data):
 
     # Convertendo para datimetime
     data['date'] = data['date'].apply(lambda x: x.split('T')[0])
-    data['date'] = data['date'].apply(lambda x: x[0:4] + '-' + x[4:6] + '-' + x[6-8])
+    data['date'] = data['date'].apply(lambda x: x[0:4] + '-' + x[4:6] + '-' + x[6:8])
     data['date'] = pd.to_datetime(data['date'], format="%Y-%m-%d")
 
     # Convertendo pés quadrados para metros quadrados (m²)
